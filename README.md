@@ -85,4 +85,3 @@ python3 main.py
 ```bash
 python -m unittest test_flip7.py -v
 ```
-
